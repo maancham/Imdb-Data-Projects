@@ -5,6 +5,6 @@
 
 
 ## General info
-Conducted mini-tasks and projects on previously scraped data from my [imdb-crawler](https://gitlab.com/houmch/imdb-crawler) bot.
+Conducted mini-tasks and projects on previously scraped data from my [imdb-crawler](https://github.com/maancham/IMDB-Crawler) bot.
     
 
